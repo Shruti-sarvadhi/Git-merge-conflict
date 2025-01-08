@@ -1,1 +1,3 @@
-# Git-merge-conflict
+# Git-merge-conflict 
+
+This is for edit
